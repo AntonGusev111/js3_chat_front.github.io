@@ -1,0 +1,22 @@
+{
+  "name": "homeWork6",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "webpack --mode production"
+  },
+  "author": "AntonGusev111 <GusevAD111@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^6.7.2",
+    "eslint": "^8.27.0",
+    "html-loader": "^4.2.0",
+    "live-server": "^1.1.0",
+    "package": "^1.0.1",
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
